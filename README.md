@@ -26,7 +26,8 @@
 ---
 
 ## 📫 How to Reach Me
-- Email: khadijaalamoudi169@gmail.com 
+- Email: khadijaalamoudi169@gmail.com
+- Linkedin: https://www.linkedin.com/in/khadija-alamoudi-8226b4387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ## 🤝 Let’s Collaborate!
 I’m open to collaborating on Flutter mobile app projects.  
